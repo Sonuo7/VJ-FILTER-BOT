@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://graph.org/file/d57d6f83abb6b8d0efb02.jpg" alt="VJ-Filter-Bot Logo">
+  <img src="https://envs.sh/08V.jpg" alt="Wanda Bot">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  Wanda BOT
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Wanda+Filter+Bot!)
 </p>
 
 ## Main Feature 
