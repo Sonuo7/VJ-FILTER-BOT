@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/V0PL141L/photo-2024-09-23-09-06-15-7483074627367862276.jpg" alt="Wanda Bot">
+  <img src="https://files.catbox.moe/x2hgdn.jpg" alt="Wanda Bot">
 </p>
 <h1 align="center">
   Wanda BOT
