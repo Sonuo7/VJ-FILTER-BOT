@@ -228,9 +228,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
-
-<b> Size ⚙️: {file_size}</b>""" 
+    CAPTION = """<b>Tɪᴛʟᴇ :</b>\n<b><blockquote><pre>{file_name}</pre></blockquote></b>\n<b><blockquote>Jᴏɪɴ ❤️‍🔥 @Alsamovies</blockquote></b>\n<b>𝙳𝚘𝚗𝚝 𝚏𝚘𝚛𝚐𝚎𝚝 backup<blockquote>✨ @wanda_updates</blockquote></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
